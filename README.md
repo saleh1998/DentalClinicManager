@@ -1,4 +1,4 @@
-# DentalClinicManager
+# Dental Clinic Manager
 Dental Clinic  Manager desktop app for Dental Clinics in Israel.
 
 using javafx gui as frontend and AWS S3 as backend - objects are json files.
